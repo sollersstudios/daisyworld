@@ -1,0 +1,15 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://cfhw0ns56bito"
+valid=false
+
+[deps]
+
+source_file="res://world stats.csv"
+
+[params]
+
+compress=true
+delimiter=0
